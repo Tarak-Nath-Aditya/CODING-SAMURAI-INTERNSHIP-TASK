@@ -10,6 +10,6 @@ MODEL SELECTION- A simple machine learning algorithm Logistic Regression is used
 MODEL TRAINING - Train the selected model using the training dataset. This involved feeding the model with input features (sepal length, sepal width, petal length, and petal width) and the corresponding target labels (flower species). 
 
 MODEL EVALUATION- Evaluate the model’s performance using the testing dataset. Common evaluation metrics for classification tasks included accuracy, precision.
-PREDICTION- Used the trained model to make predictions on new data points (flower measurements). A basic web application is used where users can input the measurements, and the model predicts the flower species. 
+PREDICTION- Used the trained model to make predictions on new data points (flower measurements). A basic web application is used where users can input the measurements, and the model predicts the flower species.
 VISUALIZATION-  To Create visualizations such as scatter plots,  bar charts to help others understand how well the model is performing.
 
